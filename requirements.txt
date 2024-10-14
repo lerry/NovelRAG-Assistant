@@ -1,0 +1,12 @@
+python-dotenv
+fastapi[all]
+loguru
+psycopg2-binary
+transformers
+torch
+llama-index
+llama-index-embeddings-huggingface
+llama-index-vector-stores-postgres
+ebooklib
+beautifulsoup4
+uvicorn
