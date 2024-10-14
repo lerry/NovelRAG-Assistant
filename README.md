@@ -4,6 +4,7 @@
 
 小说阅读 AI 助手是一个基于 llama-index 实现的 RAG 小说阅读助手，可以向引擎提问小说剧情和人物关系等。
 向量嵌入使用的是 [text2vec-base-chinese](https://huggingface.co/shibing624/text2vec-base-chinese)，LLM 模型使用的是 [gpt-3.5-turbo](https://platform.openai.com/docs/models/gpt-3-5)。
+这里有更详细的说明 [https://lerry.me/post/2024/10/rag-novel-qa-system-implementation](https://lerry.me/post/2024/10/rag-novel-qa-system-implementation)
 
 ## 环境要求
 
